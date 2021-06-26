@@ -1,3 +1,7 @@
+# To-Do
+- [x] Retornar número de vacinas por serviço
+- [x] Formatar o dado para exibição no bot
+
 ## References
 
 https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/persistentconversationbot.py
